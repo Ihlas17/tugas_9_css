@@ -1,0 +1,12 @@
+div{
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    background-position: right top;
+    margin-left: auto;
+    text-align: end;
+}
+body{
+    background-image: url(Stupa_Borobudur.jpg);
+    background-size: cover;
+}
